@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius!</h1>
-<h3 align="center">A curious software engineer from Brazil.<br />Know more about my work experiences at <a href="https://linkedin.com/in/vncsalencar" target="_blank" rel="noreferrer">LinkedIn</a></h3>
+<h3 align="center">A curious software engineer from Brazil.</h3>
 
 <h2 align="center">I've been doing front end development with</h2>
 <p align="center">
