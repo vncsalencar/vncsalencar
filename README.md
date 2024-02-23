@@ -26,7 +26,7 @@
     <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="36" height="36" /> </a>
 </p>
 
-<h2 align="center">Regarding databases, these area what I feel comfortable with</h2>
+<h2 align="center">Regarding databases, these are what I feel comfortable with</h2>
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36" /> </a>
